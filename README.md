@@ -5,7 +5,7 @@ Day 1
 CIRCUIT DESIGN AND SIMULATION      
 CIRCUIT DESIGN 
 
-Logic Gates, Inverters, Buffers ARE MADE FROM PMOS/NMOS AND Connected TO perform functions 
+Logic Gates, Inverters, Buffers ARE MADE FROM PMOS/NMOS AND Connected TO perform functions.
 
 <img width="253" height="361" alt="image" src="https://github.com/user-attachments/assets/b1859f74-8a66-4f84-847c-b30277e69943" />
 <img width="243" height="181" alt="image" src="https://github.com/user-attachments/assets/a0eab289-de48-4c5b-80b0-a1659098edc3" />
