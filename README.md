@@ -213,6 +213,8 @@ TECHNOLOGY PARAMETER
 
 
 DAY 2
+
+
 VELOCITY SATURATION 
 CMOS INVERTER 
 VTC VOLTAGE TRANSFER CHARACTERSTICS 
@@ -432,6 +434,8 @@ When Vin = 2V, Vout = 0V; NMOS is in linear region and PMOS is Cut Off
 
 
 DAY 3 
+
+
 CMOS SWITCHING VTH AND DYNAMIC SIMULATIONS 
 
 L1 SPICE deck creation for CMOS inverter
@@ -655,6 +659,8 @@ Ron(PMOS) = 2.5*Ron(NMOS)
 
 
 DAY 4 
+
+
 CMOS NOSISE MARGIN 
 
 <img width="719" height="1600" alt="image" src="https://github.com/user-attachments/assets/67baca87-ae1e-4b40-b001-e33c689ec967" />
@@ -761,7 +767,9 @@ For noise margin low we need Vil-Vol and in this case Vil=x0 and Vol=y1
 NMh = 0.736177 and NMl = 0.655856
 
 
-Day 5: CMOS Power supply and
+Day 5
+
+: CMOS Power supply and
 Static behaviour evaluation-CMOS inverter robustness-Power supply variation
 
 LAB 
