@@ -1,5 +1,5 @@
 # CMOS-DESIGN-
-Day 1
+Day 1/README.md
  NMOS Id vs Vds
 
 CIRCUIT DESIGN AND SIMULATION      
@@ -212,7 +212,7 @@ TECHNOLOGY PARAMETER
 
 
 
-DAY 2
+DAY 2/README.md
 
 
 VELOCITY SATURATION 
@@ -433,7 +433,7 @@ When Vin = 2V, Vout = 0V; NMOS is in linear region and PMOS is Cut Off
 <img width="940" height="581" alt="image" src="https://github.com/user-attachments/assets/d8def3d6-4449-4410-a299-7fa975afc5cd" />
 
 
-DAY 3 
+DAY 3 /README.md
 
 
 CMOS SWITCHING VTH AND DYNAMIC SIMULATIONS 
@@ -658,7 +658,7 @@ When Wp/Lp is increased, the rise delay is isgnificantly reduced because time re
 Ron(PMOS) = 2.5*Ron(NMOS)
 
 
-DAY 4 
+DAY 4 /README.md
 
 
 CMOS NOSISE MARGIN 
@@ -767,7 +767,7 @@ For noise margin low we need Vil-Vol and in this case Vil=x0 and Vol=y1
 NMh = 0.736177 and NMl = 0.655856
 
 
-Day 5
+Day 5/README.md
 
 : CMOS Power supply and
 Static behaviour evaluation-CMOS inverter robustness-Power supply variation
