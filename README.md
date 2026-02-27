@@ -1,4 +1,80 @@
-# CMOS-DESIGN-
+# CMOS-DESIGN- 
+
+# 🚀 CMOS DESIGN LAB
+
+Welcome to the **CMOS Design and Simulation Repository**.
+
+This repository documents a **day-wise learning journey of CMOS design**, covering MOSFET physics, CMOS inverter behavior, SPICE simulations, switching analysis, noise margins, and process variations using SKY130 technology.
+
+---
+
+# 📚 Course Navigation (Click to Open)
+
+> Select any day below to directly open the detailed notes and simulations.
+
+| Day | Topic | Open |
+|-----|------|------|
+| **Day 1** | NMOS Id–Vds, Device Physics & Operation | 👉 [Open Day 1](./Day%201/README.md) |
+| **Day 2** | Velocity Saturation & CMOS Voltage Transfer Characteristics | 👉 [Open Day 2](./Day%202/README.md) |
+| **Day 3** | Switching Threshold & Dynamic CMOS Simulation | 👉 [Open Day 3](./Day%203/README.md) |
+| **Day 4** | CMOS Noise Margin Analysis | 👉 [Open Day 4](./Day%204/README.md) |
+| **Day 5** | Power Supply & Process Variation Analysis | 👉 [Open Day 5](./Day%205/README.md) |
+
+---
+
+# 🧠 Topics Covered
+
+## 🔹 MOSFET Fundamentals
+- NMOS structure and operation
+- Threshold voltage physics
+- Body effect
+- Drift current derivation
+- Regions of operation
+- Pinch-off condition
+- Channel length modulation
+
+## 🔹 CMOS Inverter Theory
+- Voltage Transfer Characteristics (VTC)
+- Switching threshold analysis
+- Region identification
+- PMOS vs NMOS strength ratio
+
+## 🔹 Short Channel Effects
+- Velocity saturation
+- Long vs short channel comparison
+- Transconductance behavior
+
+## 🔹 Timing Analysis
+- Rise and fall delay
+- Load capacitance effects
+- Buffer sizing
+- Clock inverter characteristics
+
+## 🔹 Noise & Robustness
+- Noise margins (NMH, NML)
+- Safe vs unsafe glitches
+- Static robustness evaluation
+
+## 🔹 Process & Supply Variations
+- Oxide thickness variation
+- Etching variation
+- Device mismatch
+- Power supply scaling effects
+
+---
+
+# 🛠 Tools & Technologies Used
+
+- **NGSPICE**
+- **SKY130 PDK**
+- CMOS Device Physics
+- Analog & Digital Circuit Theory
+- SPICE Netlist Simulation
+
+---
+
+# 📂 Repository Structure
+
 Day 1/README.md
  NMOS Id vs Vds
 
